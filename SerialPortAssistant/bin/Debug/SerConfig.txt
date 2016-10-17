@@ -1,0 +1,16 @@
+﻿COM1
+9600
+None
+2
+One
+10
+1MHZ
++63mv
+39
+positive
+internal
+positive
+negative
+enable
+4：addr=0x100
+0：addr=0x000
